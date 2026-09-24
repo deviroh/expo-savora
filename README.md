@@ -1,2 +1,2 @@
 # expo-savora
-Food Ordering and Delivery App built with React Native
+Food Ordering and Delivery App built with React Natives
